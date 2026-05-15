@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Stefan 👋
+Prepress-Technician from Austria, on my way into the IT-World.
+I like systems that just work and things that look right.
 
-<!--
-**Shortzn/Shortzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My current Goals are
 
-Here are some ideas to get you started:
+Linux – from shell to server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Docker & container orchestration
+
+Python for automation and APIs
+
+Making a Homelab as my playground
+
+## 📫 Get in touch
+Linz, Austria
+mail@sthb.me
